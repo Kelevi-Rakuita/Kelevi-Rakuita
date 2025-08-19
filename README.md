@@ -23,5 +23,9 @@ My parents — for their strength, guidance, and shaping me into who I am today.
 
 ---
 
-📫 **Let’s Connect**  
-[GitHub](https://github.com/Kelevi-Rakuita)
+---
+
+### 📫 **Let's Connect**
+
+* **Email:** [krakuita2000@gmail.com](mailto:krakuita2000@gmail.com)
+* **GitHub:** [Kelevi-Rakuita](https://github.com/Kelevi-Rakuita)
